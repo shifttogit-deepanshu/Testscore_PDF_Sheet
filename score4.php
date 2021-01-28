@@ -123,11 +123,12 @@ if (mysqli_num_rows($result) > 0)
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="stylesheet" href="style2.css" />
 	<title></title>
 </head>
-<body style="font-family: 'Sans-Serif';">
+<body style="font-family: 'Sans-Serif';" >
 
-<h1>Thinking and Problem Solving Skills</h1>
+<h1 class="tps">Thinking and Problem Solving Skills</h1>
 <!-- Cognitive Flexibility Skills -->
 
 <h2>Cognitive Flexibility Skills</h2>

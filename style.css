@@ -1,0 +1,178 @@
+body{
+    /* background-image: url(https://paxcura.com/wp-content/uploads/2020/08/diagnostic-lab-content-gradient-bg.svg);
+    background-size: contain; */
+    /* background-color:rgba(41, 241, 195, 0.1) ; */
+    padding:0;
+    margin:0;
+}
+.container{
+    max-width:1300px;
+    padding:50px 50px 50px 50px;
+    margin: auto;
+    font-family: 'Roboto';
+    border-left:10px double rgba(41, 241, 195, 0.5);
+    border-right:10px double rgba(41, 241, 195, 0.5);
+    background-color: white;
+    /* box-shadow: 0px 0px 10px grey; */
+}
+.dim{
+    height:70px;
+    display: flex;
+    padding:10px;
+    margin:20px;
+    background-color: rgba(231, 250, 245, 0.05);
+
+}
+.dim1head{
+    height:100%;
+    color:#f03434;
+    font-size:48px;
+    font-weight: 900;
+    padding-right: 10px;
+    border-right: 2px solid #f03434;
+    margin-bottom:10px;
+}
+.dim1text{
+    font-size:24px;
+    align-self:flex-end;
+    padding-left:10px;
+
+}
+
+.dim2head{
+    height:100%;
+    color:#336e7b;
+    font-size:48px;
+    font-weight: 900;
+    padding-right: 10px;
+    border-right: 2px solid #336e7b;
+    margin-bottom:10px;
+}
+.dim2text{
+    font-size:24px;
+    align-self:flex-end;
+    padding-left:10px;
+
+}
+.dim3head{
+    height:100%;
+    color:#2e3131;
+    font-size:48px;
+    font-weight: 900;
+    padding-right: 10px;
+    border-right: 2px solid #2e3131;
+    margin-bottom:10px;
+}
+.dim3text{
+
+    font-size:24px;
+    align-self:flex-end;
+    padding-left:10px;
+
+}
+.dim4head{
+    height:100%;
+    color:#00b16a;
+    font-size:48px;
+    font-weight: 900;
+    padding-right: 10px;
+    border-right: 2px solid #00b16a;
+    margin-bottom:10px;
+}
+.dim4text{
+    font-size:24px;
+    align-self:flex-end;
+    padding-left:10px;
+
+}
+.dim5head{
+    height:100%;
+    color:#e87e04;
+    font-size:48px;
+    font-weight: 900;
+    padding-right: 10px;
+    border-right: 2px solid #e87e04;
+    margin-bottom:10px;
+}
+.dim5text{
+    font-size:24px;
+    align-self:flex-end;
+    padding-left:10px;
+
+}
+.dim6head{
+    height:100%;
+    color:#963694;
+    font-size:48px;
+    font-weight: 900;
+    padding-right: 10px;
+    border-right: 2px solid #963694;
+    margin-bottom:10px;
+}
+.dim6text{
+    font-size:24px;
+    align-self:flex-end;
+    padding-left:10px;
+
+}
+.graph{
+    display: flex;
+    /* box-shadow: 0px 0px 10px grey; */
+    padding:10px;
+    margin:20px;
+    border-radius:10px;
+}
+/* .dim2head{
+    color:#336e7b;
+    font-size:48px;
+    font-weight: 900;
+    padding-right: 10px;
+    border-right: 2px solid grey;
+}
+.dim2text{
+    font-size:24px;
+    font-weight: 600;
+
+}
+.dim3head{
+   color:#2e3131;
+   font-size:48px;
+    font-weight: 900;
+}
+.dim3text{
+    font-size:24px;
+    font-weight: 600;
+
+}
+.dim4head{
+    color:#00b16a;
+    font-size:48px;
+    font-weight: 900;
+}
+.dim4text{
+    font-size:24px;
+    font-weight: 600;
+
+}
+.dim5head{
+    color:#e87e04;
+    font-size:48px;
+    font-weight: 900;
+}
+.dim5text{
+    font-size:24px;
+    font-weight: 600;
+
+}
+.dim6head{
+    color:#963694;
+    font-size:48px;
+    font-weight: 900;
+}
+.dim6text{
+    font-size:24px;
+    font-weight: 600;
+    position: relative;
+    top:20px
+
+} */

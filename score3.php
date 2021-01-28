@@ -5,7 +5,10 @@
 	<meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>HTML to PDF Eample</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="style.css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <script src="html2pdf.bundle.min.js"></script>
     <script>
       function generatePDF() {
@@ -19,21 +22,21 @@
     </script>
 </head>
 <body>
-	<div id="invoice" style="margin: 12px;">
-		<?php include 'score1.php'; ?>
-		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-		<?php include 'score4.php'; ?>
-		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-		<?php include 'score5.php'; ?>
-		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-		<?php include 'score6.php'; ?>
-		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-		<?php include 'score7.php'; ?>
-		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-		<?php include 'score8.php'; ?>
-		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-		<?php include 'score9.php'; ?>
-		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<div id="invoice" class="container">
+	  	<div><?php include 'score1.php'; ?></div>	
+		<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+		<div><?php include 'score4.php'; ?></div>
+		<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+		<div><?php include 'score5.php'; ?></div>
+		<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+		<div><?php include 'score6.php'; ?></div>
+		<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+		<div><?php include 'score7.php'; ?></div>
+		<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+		<div><?php include 'score8.php'; ?></div>
+		<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
+		<div><?php include 'score9.php'; ?></div>
+		<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
 	</div>
 <button onclick="generatePDF()">Download as PDF</button>
 </body>
