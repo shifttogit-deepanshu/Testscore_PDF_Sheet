@@ -227,8 +227,8 @@ h3{
 
 .ss{
     padding:50px;
-    border-left:10px solid #00b16a;
-
+    border-left:10px solid rgb(0, 177, 106);
+    background-color: rgba(0, 177, 106,0.1);
 }
 .ss h1{
     color:#00b16a;
@@ -252,15 +252,16 @@ h3{
 
 .cs{
     padding:50px;
-    border-left:10px solid  #2e3131;
+    border-left:10px solid  rgb(46, 49, 49);
+    background-color:rgba(46, 49, 49,0.1) ;
 
 }
 
 
 .ls{
     padding:50px;
-    border-left:10px solid#e87e04;
-
+    border-left:10px solid rgb(232, 126, 4);
+    background-color: rgba(232, 126, 4,0.1);
 }
 .ls h1{
     color:#e87e04;
@@ -274,8 +275,8 @@ h3{
 
 .ts{
     padding:50px;
-    border-left:10px solid #963694;
-
+    border-left:10px solid rgb(150, 54, 148);
+    background-color: rgba(150, 54, 148,0.1);
 }
 .ts h1{
     color:#963694;
