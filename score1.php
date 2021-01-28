@@ -119,6 +119,7 @@ else
   <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
+	<div class="dimensions">
 	<div class="dim"><span class="dim1head">Dimension1</span> <span class="dim1text">Thinking and Problem Solving Skills Score is: <b><?php echo $dim1Score ?> %</span></b></div>
 	<div class="dim"><span class="dim2head">Dimension2</span> <span class="dim2text">Personality Skills Score is: <b><?php echo $dim2Score ?> %</span></b></div>
 	<div class="dim"><span class="dim3head">Dimension3</span> <span class="dim3text">Communication Skills Score is: <b><?php echo $dim3Score ?> %</span></b></div>
@@ -163,6 +164,7 @@ else
   </script>
 <div class="graph">
 <div id="barchart_values" style="width: 100%; height: 600px;"></div>
+</div>
 </div>
 </body>
 </html>
