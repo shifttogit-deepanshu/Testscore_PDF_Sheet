@@ -180,9 +180,23 @@ body{
     padding:50px;
     border-left:10px solid rgba(41, 241, 195, 0.5);
 }
+
+h2{
+    font-size: 32px;
+}
+p{
+    font-size:20px;
+}
+h3{
+    font-size:20px;
+}
+
+
+
 .tps{
     padding:50px;
-    border-left:10px solid #f03434;
+    border-left:10px solid rgb(240, 52, 52);
+    background-color: rgba(240, 52, 52,0.1);
 
 }
 .tps h1{
@@ -194,12 +208,82 @@ body{
   border-radius: 5px;
  
 }
-h2{
-    font-size: 32px;
+
+.personality{
+    padding:50px;
+    border-left:10px solid rgb(51, 110, 123);
+    background-color: rgba(51, 110, 123,0.1);
+
 }
-p{
-    font-size:20px;
+.personality h1{
+    color:#336e7b;
+    font-size:48px;
 }
-h3{
-    font-size:20px;
+.personality hr{
+    border: 5px solid #336e7b;
+  border-radius: 5px;
+ 
 }
+
+.ss{
+    padding:50px;
+    border-left:10px solid #00b16a;
+
+}
+.ss h1{
+    color:#00b16a;
+    font-size:48px;
+}
+.ss hr{
+    border: 5px solid #00b16a;
+  border-radius: 5px;
+ 
+}
+
+.cs h1{
+    color: #2e3131;
+    font-size:48px;
+}
+.cs hr{
+    border: 5px solid  #2e3131;
+  border-radius: 5px;
+ 
+}
+
+.cs{
+    padding:50px;
+    border-left:10px solid  #2e3131;
+
+}
+
+
+.ls{
+    padding:50px;
+    border-left:10px solid#e87e04;
+
+}
+.ls h1{
+    color:#e87e04;
+    font-size:48px;
+}
+.ls hr{
+    border: 5px solid #e87e04;
+  border-radius: 5px;
+ 
+}
+
+.ts{
+    padding:50px;
+    border-left:10px solid #963694;
+
+}
+.ts h1{
+    color:#963694;
+    font-size:48px;
+}
+.ts hr{
+    border: 5px solid #963694;
+  border-radius: 5px;
+ 
+}
+

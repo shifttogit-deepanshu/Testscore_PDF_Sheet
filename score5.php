@@ -126,7 +126,7 @@ if (mysqli_num_rows($result) > 0)
 	<title></title>
 </head>
 <body style="font-family: 'Sans-Serif';">
-
+<div class="personality">
 <h1>Personality</h1>
 <!-- Persuasion Skills -->
 
@@ -292,7 +292,7 @@ if($sd27<30)
 </p>
 <hr>
 
-
+</div>
 
 </body>
 </html>

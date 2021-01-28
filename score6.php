@@ -83,7 +83,7 @@ if (mysqli_num_rows($result) > 0)
 	<title></title>
 </head>
 <body style="font-family: 'Sans-Serif';">
-
+<div class="cs">
 <h1>Communication Skills</h1>
 <!-- Verbal Communication Skills -->
 
@@ -177,5 +177,6 @@ if($sd34<30)
 <p>People with good skills in this domain tend to impart or interchange thoughts, opinions, or information by speech, writing or signs. It includes conversation, interchange, talk, information transmittal, nonverbal communication, basic pragmatics. As your career progresses, the importance of communication skills increases; the ability to speak, listen, question and write with clarity and conciseness are essential for most managers and leaders. In your personal life, good communication skills can improve your personal relationships by helping you to understand others, and to be understood.
 </p>
 <hr>
+</div>
 </body>
 </html>

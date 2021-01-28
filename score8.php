@@ -140,7 +140,7 @@ if (mysqli_num_rows($result) > 0)
 	<title></title>
 </head>
 <body style="font-family: 'Sans-Serif';">
-
+<div class="ls">
 <h1>Leadership Skills</h1>
 <!-- Office Skills -->
 
@@ -328,5 +328,6 @@ if($sd58<30)
 <p>Administrative skills can help you to be well organized, to be a strong communicator and to enhance your customer service skills. This might involve responsibilities such as filing paperwork, meeting with internal and external stakeholders, presenting important information, developing processes, and answering employee questions. There are many administrative skills that help you perform these responsibilities in an efficient, quality way. Administrative skills are important because they keep business processes running smoothly.
 </p>
 <hr>
+</div>
 </body>
 </html>

@@ -126,7 +126,7 @@ if (mysqli_num_rows($result) > 0)
 	<title></title>
 </head>
 <body style="font-family: 'Sans-Serif';">
-
+<div class="ss">
 <h1>Social Skills</h1>
 <!-- Cooperation Skills -->
 
@@ -290,6 +290,6 @@ if($sd47<30)
 <p>People with high scores in this domain tend to maintain a positive and hopeful attitude towards life, even in the face of adversity. It represents a positive approach to daily living and an important motivating factor in whatever we do.  It is a mental attitude reflecting a belief or hope that the outcome of some specific endeavor, or outcomes in general, will be positive, favorable, and desirable. It includes hopefulness, positivity and a positive attitude.
 </p>
 <hr>
-
+</div>
 </body>
 </html>

@@ -196,7 +196,7 @@ if (mysqli_num_rows($result) > 0)
 	<title></title>
 </head>
 <body style="font-family: 'Sans-Serif';">
-
+<div class="ts">
 <h1>Technical Skills</h1>
 <!-- Spatial Skills 1: Visual Memory -->
 
@@ -480,5 +480,6 @@ if($sd6C<30)
 <p>It is the capacity to understand, reason, and remember the spatial relations among objects or space. Visual-spatial abilities are used for everyday use from navigation, understanding or fixing equipment, understanding or estimating distance and measurement, and performing on a job. Spatial intelligence involves understanding and remembering the relative locations of objects in the mind. Objects can be manipulated through mental movement or transformation. It is the ability to perform visualization and spatial thinking.
 </p>
 <hr>
+</div>
 </body>
 </html>
